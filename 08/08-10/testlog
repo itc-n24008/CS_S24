@@ -1,0 +1,7 @@
+ERROR:2024-08-20 14:43:01,223:text exception message
+Traceback (most recent call last):
+  File "/home/vagrant/CS_S24/08/08-10/logging2.py", line 9, in <module>
+    ret = devide(10, 0)
+  File "/home/vagrant/CS_S24/08/08-10/logging2.py", line 4, in devide
+    return x1 / x2
+ZeroDivisionError: division by zero
